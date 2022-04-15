@@ -1,11 +1,13 @@
 {
   "autoload": {
     "files": [
-      "src/Solution.php"
+      "src/Select.php"
     ]
   },
   "require": {
-
+    "hexlet/pairs":"^1.0",
+    "hexlet/pairs-data":"^1.0",
+    "hexlet/html-tags":"^1.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^9.5"
